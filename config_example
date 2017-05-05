@@ -1,0 +1,10 @@
+{
+  "daemon":
+  {
+    "socket" : "/tmp/test.sock",
+    "cpus" : 4,
+    "updateinterval": 10,
+    "sourceendpoint": "https://xxxyyyzzz.com/xxx/",
+    "apitoken": "some token"
+  }
+}
